@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cc15ff4503892986",
+    "id": "e0541e722c09aadd",
     "type": "split",
     "children": [
       {
-        "id": "648434aee5177448",
+        "id": "b6b9e91ab1417b02",
         "type": "tabs",
         "children": [
           {
-            "id": "406b04c4fa48f3f3",
+            "id": "c97b613a36f3a6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "40f846bc642c8131",
+    "id": "a08922630ac207b2",
     "type": "split",
     "children": [
       {
-        "id": "fd29e11990c042e8",
+        "id": "1b09b491ba14fa6f",
         "type": "tabs",
         "children": [
           {
-            "id": "2959a6fe7d6ace61",
+            "id": "7f5e07ccdd63175a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "126172b29bc716b3",
+            "id": "667e038cc3f65232",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "10d24ec4c0bb363c",
+            "id": "f8ff4d1fbacdf87b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "7b1ba51b636a3900",
+    "id": "180ddba9c515ed9a",
     "type": "split",
     "children": [
       {
-        "id": "8b2b7bc2d1c65d03",
+        "id": "ee052172d45b95e6",
         "type": "tabs",
         "children": [
           {
-            "id": "328b75c1abfff278",
+            "id": "c6a55bcb238a0e34",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "01cb1c30494ed088",
+            "id": "98d02ccba7c6b5c8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "626b322085e81a4d",
+            "id": "e39ea72d554b4682",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,21 +137,7 @@
             }
           },
           {
-            "id": "a7f6073bd084bccf",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "ebce5b4162868873",
+            "id": "9d817f1bee4871a7",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -179,12 +165,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "406b04c4fa48f3f3",
+  "active": "c97b613a36f3a6e7",
   "lastOpenFiles": [
+    "README.md",
     "TODO.md"
   ]
 }
